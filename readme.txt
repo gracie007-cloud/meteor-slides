@@ -4,7 +4,7 @@ Donate link: http://jleuze.com/go/paypal/
 Tags: slideshow, slider, slides, responsive, jquery
 Requires at least: 4.4
 Tested up to: 6.8
-Stable tag: 1.5.6.1 (alteration by Claude to fix Wordpress Plugin Check Errors)
+Stable tag: 1.5.6.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -270,4 +270,5 @@ Meteor Slides 1.2 adds localization support and includes Indonesian and Turkish 
 This version of Meteor Slides fixes a bug that was causing some themes to disable the featured images.
 
 = 1.1 =
+
 This version of Meteor Slides adds a stylesheet for the slideshow which aids theme compatibility.
